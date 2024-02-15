@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\bin\Debug\net7.0\Tarefa.Domain.deps.json
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\bin\Debug\net7.0\Tarefa.Domain.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\bin\Debug\net7.0\Tarefa.Domain.pdb
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\refint\Tarefa.Domain.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\Tarefa.Domain.pdb
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Domain\obj\Debug\net7.0\ref\Tarefa.Domain.dll

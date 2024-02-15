@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\bin\Debug\net7.0\Tarefa.Infrastructure.deps.json
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\bin\Debug\net7.0\Tarefa.Infrastructure.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\bin\Debug\net7.0\Tarefa.Infrastructure.pdb
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\bin\Debug\net7.0\Tarefa.Domain.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\bin\Debug\net7.0\Tarefa.Domain.pdb
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.csproj.CopyComplete
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\refint\Tarefa.Infrastructure.dll
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\Tarefa.Infrastructure.pdb
+C:\Users\Rafael\Desktop\PDI\tarefas\tarefas\Tarefa.Infrastructure\obj\Debug\net7.0\ref\Tarefa.Infrastructure.dll
