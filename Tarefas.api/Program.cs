@@ -1,5 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
+using Tarefa.Domain.Repository;
 using Tarefa.Infrastructure.Configuration;
+using Tarefa.Infrastructure.Repository;
 
 namespace Tarefas.api
 {
@@ -10,6 +12,7 @@ namespace Tarefas.api
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddScoped<ITaskRepository, TasksRepository>();
             builder.Services.Configure<TasksConfig>
                 (builder.Configuration.GetSection("TarefasDatabase"));
 

@@ -27,6 +27,8 @@ namespace Tarefas.Api.Controllers.V1
         [HttpPost]
         public async Task<Tasks> PostTask(Tasks tasks)
         {
+            Console.WriteLine("teste");
+
             await _tasksRepository.CreateAsync(tasks);
 
             return tasks;
