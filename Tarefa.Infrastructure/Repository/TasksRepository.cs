@@ -18,7 +18,7 @@ namespace Tarefa.Infrastructure.Repository
             var mongoClient = new MongoClient(tasksRepository.Value.ConnectionString);
             var mongoDatabase = mongoClient.GetDatabase(tasksRepository.Value.DatabaseName);
 
-            _tasksCollection = mongoDatabase.GetCollection<Tasks>(tasksRepository.Value.BankAccountCollectionName);
+            _tasksCollection = mongoDatabase.GetCollection<Tasks>(tasksRepository.Value.TarefasCollectionName);
 
         }
 
